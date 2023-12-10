@@ -1,0 +1,16 @@
+{
+  "name": "api_ag_bancaria_tp1",
+  "version": "1.0.0",
+  "description": "Api para agência bancária",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Guilherme",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "validatorjs": "^3.22.1"
+  }
+}
